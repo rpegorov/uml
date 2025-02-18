@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_xWITf0s-KkVJeBzebyz" name="Общая схема с потоками данных ДПА в АСЗИ">
-    <mxGraphModel dx="846" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,7 +469,7 @@
         </mxCell>
         <mxCell id="47WCuO0GgXA6t6C5oBe3-55" value="Данные" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" collapsed="1" parent="JoBizuK1vIitzZvIPXmn-16">
           <mxGeometry x="540" y="730" width="80" height="30" as="geometry">
-            <mxRectangle x="1190" y="30" width="480" height="330" as="alternateBounds" />
+            <mxRectangle x="540" y="730" width="480" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="47WCuO0GgXA6t6C5oBe3-56" value="Входящие" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="47WCuO0GgXA6t6C5oBe3-55">
