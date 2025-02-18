@@ -390,7 +390,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dcL1kiZPwFlEtIL9hsCn-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="JoBizuK1vIitzZvIPXmn-16" source="XqUqiJM1ptDHgSwQ6YiU-4" target="2WocVKKOPuVdOIGVl4dE-1" edge="1">
+        <mxCell id="dcL1kiZPwFlEtIL9hsCn-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="JoBizuK1vIitzZvIPXmn-16" source="XqUqiJM1ptDHgSwQ6YiU-4" target="2WocVKKOPuVdOIGVl4dE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="955" y="310" as="sourcePoint" />
             <Array as="points">
@@ -617,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="liu48jqT2XKp9eunEYqg" name="Общая схема с потоками данных ДПА в АСУ ТП">
-    <mxGraphModel dx="1968" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2788" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -814,7 +814,7 @@
             <mxPoint x="1615" y="464" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1i6zrxhLIoaw76gXTl3D-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1i6zrxhLIoaw76gXTl3D-1" source="1i6zrxhLIoaw76gXTl3D-16" target="1i6zrxhLIoaw76gXTl3D-32" edge="1">
+        <mxCell id="1i6zrxhLIoaw76gXTl3D-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1i6zrxhLIoaw76gXTl3D-1" source="1i6zrxhLIoaw76gXTl3D-16" target="1i6zrxhLIoaw76gXTl3D-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="955" y="310" as="sourcePoint" />
           </mxGeometry>
@@ -1289,7 +1289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CauMQ7MunrGUaY4p7ecM" name="Схема Сергей 1">
-    <mxGraphModel dx="2382" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
