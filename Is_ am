@@ -176,6 +176,9 @@
         <mxCell id="WoJn_xl8aBi3RU7uife3-25" value="Other" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WoJn_xl8aBi3RU7uife3-27" value="Заметка - ограничить &amp;nbsp;возможность самостоятельного получения УП станком. Только через Сервер" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-250" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
