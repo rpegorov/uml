@@ -31,6 +31,9 @@
         <mxCell id="WoJn_xl8aBi3RU7uife3-21" value="Станок" style="html=1;whiteSpace=wrap;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-1">
           <mxGeometry x="5" y="30" width="110" height="27.04" as="geometry" />
         </mxCell>
+        <mxCell id="WoJn_xl8aBi3RU7uife3-24" value="Fanuc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-1">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Gcn8SiiRoEJSi4vwjwWW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=0;endArrow=none;" parent="1" source="Gcn8SiiRoEJSi4vwjwWW-38" target="Gcn8SiiRoEJSi4vwjwWW-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -77,10 +80,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gcn8SiiRoEJSi4vwjwWW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;startFill=1;startArrow=classic;" parent="1" source="Gcn8SiiRoEJSi4vwjwWW-22" target="Gcn8SiiRoEJSi4vwjwWW-12" edge="1">
+        <mxCell id="Gcn8SiiRoEJSi4vwjwWW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=1;startArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Gcn8SiiRoEJSi4vwjwWW-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="30" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="270.00000000000045" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="271" y="375" />
+              <mxPoint x="271" />
+            </Array>
+            <mxPoint x="180" y="375" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WoJn_xl8aBi3RU7uife3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gcn8SiiRoEJSi4vwjwWW-22">
@@ -131,19 +138,16 @@
         <mxCell id="Y2Ak9ac7wAZkayupLJ1z-3" value="Что за наситель информации? MD5 SHA256 эти мета должны быть на накопителе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="-340" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y2Ak9ac7wAZkayupLJ1z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=diamond;startFill=1;" parent="1" source="Y2Ak9ac7wAZkayupLJ1z-6" target="Gcn8SiiRoEJSi4vwjwWW-12" edge="1">
+        <mxCell id="Y2Ak9ac7wAZkayupLJ1z-6" value="Должен сохранять сам файл УП и контрольные суммы с датой загрузки, инфой о пользователе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Ak9ac7wAZkayupLJ1z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=diamond;startFill=0;endArrow=none;" parent="1" source="Y2Ak9ac7wAZkayupLJ1z-8" target="Gcn8SiiRoEJSi4vwjwWW-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="170" />
-              <mxPoint x="240" y="170" />
+              <mxPoint x="300" y="105" />
+              <mxPoint x="300" y="-35" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Y2Ak9ac7wAZkayupLJ1z-6" value="Должен сохранять сам файл УП и контрольные суммы с датой загрузки, инфой о пользователе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="485" y="220" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2Ak9ac7wAZkayupLJ1z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=diamond;startFill=1;" parent="1" source="Y2Ak9ac7wAZkayupLJ1z-8" target="Gcn8SiiRoEJSi4vwjwWW-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2Ak9ac7wAZkayupLJ1z-8" value="Должен уметь считывать и сохранять данные о хэше файла. Должен уметь автоматически записывать Ид станка который взял файл и/или информацию о загрузке УП на станок&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="90" width="250" height="30" as="geometry" />
@@ -153,12 +157,6 @@
         </mxCell>
         <mxCell id="WoJn_xl8aBi3RU7uife3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
           <mxGeometry width="120" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="WoJn_xl8aBi3RU7uife3-4" value="Станок" style="html=1;whiteSpace=wrap;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
-          <mxGeometry x="5" y="3.4090909090909087" width="110" height="17.045454545454543" as="geometry" />
-        </mxCell>
-        <mxCell id="WoJn_xl8aBi3RU7uife3-5" value="Станок" style="html=1;whiteSpace=wrap;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
-          <mxGeometry x="5" y="23.863636363636363" width="110" height="17.045454545454543" as="geometry" />
         </mxCell>
         <mxCell id="WoJn_xl8aBi3RU7uife3-6" value="Станок" style="html=1;whiteSpace=wrap;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
           <mxGeometry x="5" y="44.31818181818181" width="110" height="17.045454545454543" as="geometry" />
@@ -174,6 +172,9 @@
         </mxCell>
         <mxCell id="WoJn_xl8aBi3RU7uife3-10" value="Станок" style="html=1;whiteSpace=wrap;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
           <mxGeometry x="5" y="126.13636363636364" width="110" height="17.045454545454543" as="geometry" />
+        </mxCell>
+        <mxCell id="WoJn_xl8aBi3RU7uife3-25" value="Other" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WoJn_xl8aBi3RU7uife3-2">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
