@@ -445,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Диод (потоки -)" id="iD86LOrsQie_MIKx_Haj">
-    <mxGraphModel dx="1539" dy="1127" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1474" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oJPP3g7w7rxySquo7rau-0" />
         <mxCell id="oJPP3g7w7rxySquo7rau-1" parent="oJPP3g7w7rxySquo7rau-0" />
@@ -458,7 +458,7 @@
         <mxCell id="UiujV73P2Q8eEMxwpHHF-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="oJPP3g7w7rxySquo7rau-1" vertex="1">
           <mxGeometry x="1410" y="1020" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UiujV73P2Q8eEMxwpHHF-32" value="Аттестованное средство защиты информации поддерживающее передачу данных в одностороннем порядке" style="whiteSpace=wrap;html=1;verticalAlign=top;gradientDirection=north;strokeWidth=2;" parent="oJPP3g7w7rxySquo7rau-1" vertex="1">
+        <mxCell id="UiujV73P2Q8eEMxwpHHF-32" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Сертифицированное средство защиты для односторонней передачи информации&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;gradientDirection=north;strokeWidth=2;align=center;" parent="oJPP3g7w7rxySquo7rau-1" vertex="1">
           <mxGeometry x="1380" y="1159.9962045444652" width="260" height="62.036046672024916" as="geometry" />
         </mxCell>
         <mxCell id="oJPP3g7w7rxySquo7rau-31" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="oJPP3g7w7rxySquo7rau-1" vertex="1">
@@ -536,7 +536,7 @@
         <mxCell id="oJPP3g7w7rxySquo7rau-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="oJPP3g7w7rxySquo7rau-1" source="oJPP3g7w7rxySquo7rau-60" target="oJPP3g7w7rxySquo7rau-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oJPP3g7w7rxySquo7rau-106" value="Аттестованное (доверенное)&amp;nbsp;&lt;div&gt;устройство хранения информации&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;" parent="oJPP3g7w7rxySquo7rau-1" vertex="1">
+        <mxCell id="oJPP3g7w7rxySquo7rau-106" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-wrap-mode: wrap;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Разрешенное устройство для передачи и хранения информации&lt;/font&gt;&lt;/p&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;" parent="oJPP3g7w7rxySquo7rau-1" vertex="1">
           <mxGeometry x="2650" y="329.99975155279503" width="45" height="103.1055900621118" as="geometry" />
         </mxCell>
         <mxCell id="oJPP3g7w7rxySquo7rau-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="oJPP3g7w7rxySquo7rau-1" source="oJPP3g7w7rxySquo7rau-44" target="oJPP3g7w7rxySquo7rau-106" edge="1">
@@ -843,7 +843,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UiujV73P2Q8eEMxwpHHF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="oJPP3g7w7rxySquo7rau-1" source="UiujV73P2Q8eEMxwpHHF-49" target="UiujV73P2Q8eEMxwpHHF-39" edge="1">
+        <mxCell id="UiujV73P2Q8eEMxwpHHF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=0;endArrow=none;" parent="oJPP3g7w7rxySquo7rau-1" source="UiujV73P2Q8eEMxwpHHF-49" target="UiujV73P2Q8eEMxwpHHF-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="991" y="583.9129855921702" as="targetPoint" />
           </mxGeometry>
@@ -870,7 +870,7 @@
         <mxCell id="UiujV73P2Q8eEMxwpHHF-57" value="Обновление справочников" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="UiujV73P2Q8eEMxwpHHF-53" vertex="1">
           <mxGeometry y="125.94394795859753" width="480" height="31.981315986199178" as="geometry" />
         </mxCell>
-        <mxCell id="UiujV73P2Q8eEMxwpHHF-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="oJPP3g7w7rxySquo7rau-1" source="UiujV73P2Q8eEMxwpHHF-10" target="UiujV73P2Q8eEMxwpHHF-49" edge="1">
+        <mxCell id="UiujV73P2Q8eEMxwpHHF-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;" parent="oJPP3g7w7rxySquo7rau-1" source="UiujV73P2Q8eEMxwpHHF-10" target="UiujV73P2Q8eEMxwpHHF-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1510" y="1002" as="sourcePoint" />
             <mxPoint x="1455" y="862" as="targetPoint" />
@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="иод (потоки +)" id="_dIFvRHhwGXXCrR3wwwW">
-    <mxGraphModel dx="2012" dy="1474" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="958" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GHKnIdyeO2KQwSI9BLLv-0" />
         <mxCell id="GHKnIdyeO2KQwSI9BLLv-1" parent="GHKnIdyeO2KQwSI9BLLv-0" />
@@ -912,7 +912,7 @@
         <mxCell id="GHKnIdyeO2KQwSI9BLLv-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="GHKnIdyeO2KQwSI9BLLv-1" vertex="1">
           <mxGeometry x="1410" y="1020" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GHKnIdyeO2KQwSI9BLLv-5" value="Аттестованное средство защиты информации поддерживающее передачу данных в одностороннем порядке" style="whiteSpace=wrap;html=1;verticalAlign=top;gradientDirection=north;strokeWidth=2;" parent="GHKnIdyeO2KQwSI9BLLv-1" vertex="1">
+        <mxCell id="GHKnIdyeO2KQwSI9BLLv-5" value="&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px;&quot;&gt;Сертифицированное средство защиты для односторонней передачи информации&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;gradientDirection=north;strokeWidth=2;" parent="GHKnIdyeO2KQwSI9BLLv-1" vertex="1">
           <mxGeometry x="1380" y="1159.9962045444652" width="260" height="62.036046672024916" as="geometry" />
         </mxCell>
         <mxCell id="GHKnIdyeO2KQwSI9BLLv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="GHKnIdyeO2KQwSI9BLLv-1" vertex="1">
@@ -990,7 +990,7 @@
         <mxCell id="GHKnIdyeO2KQwSI9BLLv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="GHKnIdyeO2KQwSI9BLLv-1" source="GHKnIdyeO2KQwSI9BLLv-20" target="GHKnIdyeO2KQwSI9BLLv-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GHKnIdyeO2KQwSI9BLLv-30" value="Аттестованное (доверенное)&amp;nbsp;&lt;div&gt;устройство хранения информации&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;" parent="GHKnIdyeO2KQwSI9BLLv-1" vertex="1">
+        <mxCell id="GHKnIdyeO2KQwSI9BLLv-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-wrap-mode: wrap;&quot;&gt;Разрешенное устройство для передачи и хранения информации&lt;/span&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;" parent="GHKnIdyeO2KQwSI9BLLv-1" vertex="1">
           <mxGeometry x="2650" y="329.99975155279503" width="45" height="103.1055900621118" as="geometry" />
         </mxCell>
         <mxCell id="GHKnIdyeO2KQwSI9BLLv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="GHKnIdyeO2KQwSI9BLLv-1" source="GHKnIdyeO2KQwSI9BLLv-47" target="GHKnIdyeO2KQwSI9BLLv-30" edge="1">
