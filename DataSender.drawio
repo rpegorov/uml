@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="28.0.6">
   <diagram name="Страница — 1" id="yB6ljmjd0vUWjxGRCy32">
-    <mxGraphModel dx="841" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="490" width="780" height="670" as="geometry" />
+        </mxCell>
         <mxCell id="tqtLIenuNLQmVrtVS35K-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="490" y="20" width="920" height="400" as="geometry" />
         </mxCell>
@@ -239,7 +242,7 @@
             <mxPoint x="3040" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tqtLIenuNLQmVrtVS35K-57" target="tqtLIenuNLQmVrtVS35K-59">
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="tqtLIenuNLQmVrtVS35K-57" target="tqtLIenuNLQmVrtVS35K-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tqtLIenuNLQmVrtVS35K-57" value="Send to the diode" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -277,7 +280,7 @@
         <mxCell id="tqtLIenuNLQmVrtVS35K-65" value="Save error message, timestamp and checksum. Save k/v (data range / checksum)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2880" y="720" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tqtLIenuNLQmVrtVS35K-69" target="1p-T-t_tJ_qhLKZ4jgAj-13">
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="tqtLIenuNLQmVrtVS35K-69" target="1p-T-t_tJ_qhLKZ4jgAj-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3490" y="970" as="targetPoint" />
           </mxGeometry>
@@ -305,28 +308,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tqtLIenuNLQmVrtVS35K-42" target="1p-T-t_tJ_qhLKZ4jgAj-2">
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="tqtLIenuNLQmVrtVS35K-42" target="1p-T-t_tJ_qhLKZ4jgAj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-2" value="Save service data in the pg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-2" value="Save service data in the pg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1900" y="830" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1p-T-t_tJ_qhLKZ4jgAj-2" target="tqtLIenuNLQmVrtVS35K-61">
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="1p-T-t_tJ_qhLKZ4jgAj-2" target="tqtLIenuNLQmVrtVS35K-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1p-T-t_tJ_qhLKZ4jgAj-13">
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1p-T-t_tJ_qhLKZ4jgAj-13" target="nTIwec6u0Bq6ENMB-l2v-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3485" y="890" as="targetPoint" />
+            <mxPoint x="3485" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-13" value="Start of data reception" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="925" width="170" height="75" as="geometry" />
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-13" value="Start of data reception" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="916.25" width="170" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-2" target="nTIwec6u0Bq6ENMB-l2v-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3495" y="900" as="targetPoint" />
-            <mxPoint x="3495" y="935" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3485" y="585" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-13" value="if the checksums do not match" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nTIwec6u0Bq6ENMB-l2v-7">
+          <mxGeometry x="-0.525" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-2" target="nTIwec6u0Bq6ENMB-l2v-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3830" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-2" value="Сhecking checksums of data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3425" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-5" value="send notifications&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0433FF);fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="3425" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-6" target="nTIwec6u0Bq6ENMB-l2v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-6" value="Save error message, timestamp and checksum. Save k/v (data range / checksum)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="545" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-8" value="PGDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="510" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-6" target="nTIwec6u0Bq6ENMB-l2v-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-17" target="nTIwec6u0Bq6ENMB-l2v-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3970" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-17" value="Prepare data to format mqtt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3710" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-19" target="nTIwec6u0Bq6ENMB-l2v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-19" target="nTIwec6u0Bq6ENMB-l2v-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-19" value="Send data to Gate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3950" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-20" value="Gate" style="whiteSpace=wrap;html=1;rounded=0;fillColor=light-dark(#0050EF,#0433FF);fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="4190" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTIwec6u0Bq6ENMB-l2v-22" target="nTIwec6u0Bq6ENMB-l2v-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTIwec6u0Bq6ENMB-l2v-22" value="Saving the message sending log - checksum and time interval, equipmentIds and other" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3950" y="570" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
