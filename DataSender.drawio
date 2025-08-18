@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="28.1.0">
   <diagram name="Страница — 1" id="yB6ljmjd0vUWjxGRCy32">
-    <mxGraphModel dx="1423" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,6 +277,11 @@
         <mxCell id="tqtLIenuNLQmVrtVS35K-65" value="Save error message, timestamp and checksum. Save k/v (data range / checksum)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2880" y="720" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tqtLIenuNLQmVrtVS35K-69" target="1p-T-t_tJ_qhLKZ4jgAj-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3490" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tqtLIenuNLQmVrtVS35K-69" value="Data diode" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3130" y="930" width="160" height="80" as="geometry" />
         </mxCell>
@@ -308,6 +313,20 @@
         </mxCell>
         <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1p-T-t_tJ_qhLKZ4jgAj-2" target="tqtLIenuNLQmVrtVS35K-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1p-T-t_tJ_qhLKZ4jgAj-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3485" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-13" value="Start of data reception" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="925" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1p-T-t_tJ_qhLKZ4jgAj-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3495" y="900" as="targetPoint" />
+            <mxPoint x="3495" y="935" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
